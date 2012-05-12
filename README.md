@@ -1,2 +1,7 @@
 # Introduction #
-Jarvis is a home automation project. Currently, Jarvis consists of an RFID door opener, though more is to come!
+Jarvis will be a digital life assistant with the ability to help you along with your life using different technologies.
+
+
+# Technologies #
+
+Python 3
